@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Thiago👋
 
-<!--
-**ThiagooFelipe/ThiagooFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻I am currently an IT student, attending higher education technology.  
 
-Here are some ideas to get you started:
+I am currently studying: <a href="https://gcc.gnu.org/"><img src="https://icon-icons.com/pt/icone/Java/21005" width="45"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Thanks
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-felipe-3a05b51ab/)
+
+  
