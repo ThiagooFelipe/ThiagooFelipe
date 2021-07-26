@@ -1,15 +1,16 @@
 ## Hi, I'm Thiago👋
 
-💻I am currently an IT student, attending higher education technology.  
+- 💻I am currently an IT student, attending higher education technology.  
 
-I am currently studying: <a href="https://gcc.gnu.org/"><img src="https://icon-icons.com/pt/icone/Java/21005" width="45"/></a>
+- I am currently studying: 
 
 
 
 
 
 ## Thanks
-
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-felipe-3a05b51ab/)
+ <a href="https://www.linkedin.com/in/thiago-felipe-3a05b51ab/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
   
